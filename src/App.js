@@ -355,5 +355,3 @@ class App extends React.Component {
 }
 
 export default App
-
-// API KEY = AIzaSyB6YqtnmVE1a_yim7cFPsD6NrmX2Ax7SUQ
